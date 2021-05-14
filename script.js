@@ -1,4 +1,4 @@
-var buttonAlert = document.getElementById('mybutton');
+var buttonAlert = document.getElementById('alert-button');
 
 buttonAlert.addEventListener("click", makeAlert);
 
